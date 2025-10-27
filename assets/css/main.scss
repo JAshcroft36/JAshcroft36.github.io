@@ -1,0 +1,20 @@
+
+---
+# Only the main Sass file needs front matter (the dashes are required).
+---
+
+// Load your chosen light skin first
+@import "minimal-mistakes/skins/air";
+// Then load the theme
+@import "minimal-mistakes";
+
+// === Custom overrides ===
+
+// Make author avatar rectangular (remove the circular mask)
+.author__avatar img {
+  border-radius: 0 !important;
+  box-shadow: none;
+}
+
+// Optional: control size/aspect if you want a wider rectangle
+// .author__avatar img { width: 220px; height: auto; }
