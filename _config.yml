@@ -1,4 +1,4 @@
-title: Your Name
+title: James Ashcroft
 description: Graduate student studying genomics
 url: ""  # no trailing slash
 baseurl: ""
@@ -19,18 +19,15 @@ repository: "yourusername/yourusername.github.io"
 author:
   name: "Your Name"
   avatar: "/assets/img/profile.jpg"
-  bio: "Graduate student studying genomics"
+  bio: "Wellcome Sanger Clinical PhD Fellow"
   location: "Cambridge, UK"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/yourusername"
-    - label: "ResearchGate"
-      icon: "ai ai-researchgate"
-      url: "https://www.researchgate.net/"
+      url: "https://github.com/JAshcroft36"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:you@example.com"
+      url: "mailto:ja35@sanger.ac.uk"
 
 # Navigation
 # (defined in _data/navigation.yml)
