@@ -9,7 +9,7 @@ excerpt: "Wellcome Sanger Clinical PhD Fellow"
 intro: 
   - excerpt: ''
 feature_row:
-  - image_path: /assets/img/profile.jpg
+  - image_path: /assets/img/IMG_1626.jpg
     alt: "Profile photo"
     title: "Research interests"
     excerpt: >
