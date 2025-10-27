@@ -1,0 +1,68 @@
+title: Your Name
+description: Graduate student studying genomics
+url: ""  # no trailing slash
+baseurl: ""
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+
+# Minimal Mistakes settings
+minimal_mistakes_skin: "default"
+locale: "en-GB"
+name: "Your Name"
+repository: "yourusername/yourusername.github.io"
+
+# Site Author
+author:
+  name: "Your Name"
+  avatar: "/assets/img/profile.jpg"
+  bio: "Graduate student studying genomics"
+  location: "Cambridge, UK"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"
+    - label: "ResearchGate"
+      icon: "ai ai-researchgate"
+      url: "https://www.researchgate.net/"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:you@example.com"
+
+# Navigation
+# (defined in _data/navigation.yml)
+include: ["_pages"]
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"
+    - label: "Feed"
+      icon: "fas fa-rss"
+      url: "/feed.xml"
