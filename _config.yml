@@ -19,7 +19,7 @@ repository: "JAshcroft36/JAshcroft36.github.io"
 author:
   name: "James Ashcroft"
   avatar: "/assets/img/IMG_1626.jpg"
-  bio: "Wellcome Sanger Clinical PhD Fellow"
+  bio: "Wellcome Sanger Clinical PhD Fellow. I am a PhD student studying single-cell spatiotemporal datasets and multiomic data integration to study how regulatory programmes shape cell identity."
   location: "Cambridge, UK"
   links:
     - label: "GitHub"
