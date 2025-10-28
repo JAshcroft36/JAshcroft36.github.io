@@ -10,7 +10,7 @@ plugins:
   - jekyll-feed
 
 # Appearance
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin: "default"
 locale: "en-GB"
 
 # Author
