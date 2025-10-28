@@ -1,5 +1,5 @@
 ---
-title: "Wellcome Sanger Clinical PhD Fellow"
+title: "James Ashcroft"
 layout: single
 author_profile: true
 ---
