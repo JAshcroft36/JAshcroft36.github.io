@@ -16,6 +16,7 @@ locale: "en-GB"
 # Author
 author:
   name: "James Ashcroft"
+  bio: "Genomics PhD Student"
   avatar: "/assets/img/IMG_1626.jpg"
   location: "Cambridge, UK"
   links:
