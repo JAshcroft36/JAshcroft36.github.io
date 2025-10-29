@@ -11,5 +11,3 @@ I am a genomics PhD student at the University of Cambridge and Wellcome Sanger I
 I have a strong interest in combining computational biology, genetics, and developmental cell biology to explore tissue microenvironments and cellular communication.
 
 I work primarily in Python and R, comfortable scripting in Bash, mostly run large-scale analyses on HPC environments.
-
-</small>
