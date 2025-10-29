@@ -26,14 +26,3 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:ja35@sanger.ac.uk"
-
-head_scripts:
-  - "<style>
-      body {
-        font-size: 0.9rem; /* smaller text */
-        line-height: 1.5;
-      }
-      h1, h2, h3 {
-        font-size: 90% !important; /* make headings smaller too */
-      }
-    </style>"
